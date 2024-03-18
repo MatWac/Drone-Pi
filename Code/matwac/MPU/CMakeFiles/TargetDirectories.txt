@@ -1,0 +1,4 @@
+/home/matwac/MPU/CMakeFiles/rebuild_cache.dir
+/home/matwac/MPU/CMakeFiles/edit_cache.dir
+/home/matwac/MPU/CMakeFiles/my_exe.dir
+/home/matwac/MPU/CMakeFiles/mpu.dir

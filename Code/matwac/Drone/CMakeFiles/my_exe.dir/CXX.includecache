@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/matwac/Drone/src/main.cpp
+libmpu/MPU6050.h
+-
+libmotor/Motor.hpp
+-
+iostream
+-
+
+include/libmotor/Motor.hpp
+
+include/libmpu/MPU6050.h
+iostream
+-
+unistd.h
+-
+fcntl.h
+-
+sys/ioctl.h
+-
+sys/types.h
+-
+time.h
+-
+linux/i2c-dev.h
+-
+i2c/smbus.h
+-
+cmath
+-
+thread
+-
+

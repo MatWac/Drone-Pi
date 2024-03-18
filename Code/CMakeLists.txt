@@ -22,10 +22,14 @@ add_library(
         include/libmpu/MPU6050.h
 )
 
+add_library(
+        pid
+        SHARED
+        src/PID.cpp
+        include/libpid/PID.hpp
+)
+
 #Déclaration de l'exécutable
 add_executable(my_exe src/main.cpp)
 #Configuration de l'édition de liens
-target_link_libraries(my_exe motor ${pigpio_LIBRARY})
-target_link_libraries(my_exe mpu)
-target_link_libraries(my_exe ${CMAKE_THREAD_LIBS_INIT})
-target_link_libraries(my_exe i2c)
+target_link_libraries(my_exe motor ${pigpio_LIBRARY} mpu ${CMAKE_THREAD_LIBS_INIT} i2c pid)

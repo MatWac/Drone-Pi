@@ -15,6 +15,7 @@ namespace motor
         gpioServo(m_pin, 700);
         time_sleep(2);
         std::cout << "Done" << std::endl;
+        time_sleep(2);
     }
 
     Motor::~Motor() {

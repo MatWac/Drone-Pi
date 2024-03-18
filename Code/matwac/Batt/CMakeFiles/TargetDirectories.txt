@@ -1,0 +1,3 @@
+/home/matwac/Batt/CMakeFiles/rebuild_cache.dir
+/home/matwac/Batt/CMakeFiles/edit_cache.dir
+/home/matwac/Batt/CMakeFiles/my_exe.dir

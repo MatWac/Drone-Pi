@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/my_exe.dir/src/main.o -o my_exe  -lpigpio 

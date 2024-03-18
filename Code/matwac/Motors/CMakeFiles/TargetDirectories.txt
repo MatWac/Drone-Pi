@@ -1,0 +1,4 @@
+/home/matwac/Motors/CMakeFiles/edit_cache.dir
+/home/matwac/Motors/CMakeFiles/my_exe.dir
+/home/matwac/Motors/CMakeFiles/rebuild_cache.dir
+/home/matwac/Motors/CMakeFiles/motor.dir

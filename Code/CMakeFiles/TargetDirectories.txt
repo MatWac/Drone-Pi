@@ -1,5 +1,0 @@
-B:/.Matthéo/.Drone-Pi/Code/CMakeFiles/motor.dir
-B:/.Matthéo/.Drone-Pi/Code/CMakeFiles/mpu.dir
-B:/.Matthéo/.Drone-Pi/Code/CMakeFiles/my_exe.dir
-B:/.Matthéo/.Drone-Pi/Code/CMakeFiles/ALL_BUILD.dir
-B:/.Matthéo/.Drone-Pi/Code/CMakeFiles/ZERO_CHECK.dir

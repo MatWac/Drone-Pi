@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/my_exe.dir/src/main.o -o bin/my_exe   -Llib  -L/home/matwac/MPU/lib  -Wl,-rpath,lib:/home/matwac/MPU/lib lib/libmpu.so -lpthread -li2c 

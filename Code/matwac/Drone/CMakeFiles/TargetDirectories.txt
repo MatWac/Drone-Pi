@@ -1,5 +1,0 @@
-/home/matwac/Drone/CMakeFiles/edit_cache.dir
-/home/matwac/Drone/CMakeFiles/my_exe.dir
-/home/matwac/Drone/CMakeFiles/mpu.dir
-/home/matwac/Drone/CMakeFiles/rebuild_cache.dir
-/home/matwac/Drone/CMakeFiles/motor.dir

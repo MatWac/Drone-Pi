@@ -11,7 +11,7 @@ class MotorSubscriber(Node):
         self.ser = serial.Serial('/dev/ttyUSB0', 115200, timeout=1)
         self.subscription = self.create_subscription(
             Int8MultiArray,
-            'motor',
+            '/motor',
             self.listener_callback,
             10)
         self.subscription  # prevent unused variable warning
